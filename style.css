@@ -135,6 +135,7 @@ html,body{
     position: relative;
     align-items: center;
     justify-content: space-between;
+    margin-bottom: 3%;
     position: absolute;
     bottom: 3%;
 
